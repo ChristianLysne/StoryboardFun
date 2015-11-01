@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "9fdc89fec38837675565db6a6f25883f"
+build_time: [499729584, 438807000]
+inputs:
+  "/Users/christianlysne/SwiftGif/SwiftGif/AppDelegate.swift": [497547665, 0]
+  "/Users/christianlysne/SwiftGif/SwiftGif/ViewController.swift": [497549531, 0]
